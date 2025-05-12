@@ -92,7 +92,7 @@ st.sidebar.title("📊 Portfolio App")
 if not st.session_state.logged_in:
     st.markdown(
     """
-    # 📈 Track Your Moroccan Stock Portfolio Instantly
+    # 📈 Track Your Moroccan Stocks Portfolio Instantly
 
     **Live price updates. Clear performance tracking.  
     No spreadsheets. No guesswork.**
